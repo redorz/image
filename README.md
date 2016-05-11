@@ -1,2 +1,2 @@
 # image
-图片
+This reposity is for image.
